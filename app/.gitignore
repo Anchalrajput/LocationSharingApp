@@ -1,0 +1,6 @@
+# Ignore Android build and IDE files
+.gradle
+/local.properties
+/.idea
+/build
+*.iml

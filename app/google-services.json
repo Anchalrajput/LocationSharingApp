@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738502607900",
+    "project_id": "locationshareapp-444b7",
+    "storage_bucket": "locationshareapp-444b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738502607900:android:e018c01844d606f3e48bd9",
+        "android_client_info": {
+          "package_name": "com.example.demolocationshareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjV8r7myyPmy6Xs9ge0z1uznnCJRNi20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738502607900:android:62eff3e3b07c0b61e48bd9",
+        "android_client_info": {
+          "package_name": "com.example.locationshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjV8r7myyPmy6Xs9ge0z1uznnCJRNi20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
